@@ -1,4 +1,4 @@
-# Demonstration of a Second Order SQL Injection Vulnerable Application
+# Demonstration of an Application Vulnerable to Second Order SQL Injection
 
 ## Introduction
 This repository contains a Flask application designed to demonstrate a second-order SQL injection vulnerability. Such vulnerabilities allow attackers to inject malicious SQL statements that are stored and later executed. The application includes basic functionalities like user registration, login, password reset, and displaying current users.
